@@ -96,6 +96,7 @@
 | DDoS | Distributed Denial of Service | Security |
 | DES | Data Encryption Standard | Security |
 | DevOps | Development and Operations | Software Development |
+| DFS | Distributed File System | Storage |
 | DHCP | Dynamic Host Configuration Protocol | Networking |
 | DHTML | Dynamic HTML | Web |
 | DIMM | Dual In-line Memory Module | Hardware |
@@ -170,6 +171,7 @@
 | GLONASS | GLObalnaya NAvigatsionnaya Sputnikovaya Sistema | Networking |
 | GMPLS | Generalized Multi-Protocol Label Switching | Networking |
 | GNU | GNU's Not Unix | General |
+| GPO | Group Policy Object | Software |
 | GPS | Global Positioning System | Networking |
 | GPT | GUID Partition Table | Storage |
 | GPU | Graphics Processing Unit | Hardware |
@@ -181,6 +183,7 @@
 | HDD | Hard Disk Drive | Hardware |
 | HDMI | High-Definition Multimedia Interface | Video |
 | HFS | Hierarchical File System | FileSystem |
+| HID | Human Interface Device | Hardware |
 | HIDS | Host-Based Intrusion Detection System | Security |
 | HIP | Host Identity Protocol | Networking |
 | HPC | High Performance Computing | Hardware |
@@ -237,6 +240,7 @@
 | LISP | List Processing | Programming |
 | LKAS | Lane Keeping Assist System | Automotive |
 | LPI | Local Position Interleaving | Storage |
+| LUN | Logical Unit Number | Storage |
 | LVM | Logical Volume Management | Storage |
 | MAC | Media Access Control | Hardware |
 | MAM | Mobile Application Management | Software |
@@ -275,6 +279,7 @@
 | OS | Operating System | Software |
 | OSI | Open Systems Interconnection | Networking |
 | OSPF | Open Shortest Path First | Networking |
+| OU | Organizational Unit | Software |
 | PaaS | Platform as a Service | Cloud |
 | PAM | Pluggable Authentication Modules | OS |
 | PCI | Peripheral Component Interconnect | Hardware |
