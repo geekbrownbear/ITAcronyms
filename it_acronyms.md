@@ -179,6 +179,7 @@
 | HBA | Host Bus Adapter | Hardware |
 | HCI | Human Computer Interaction | General |
 | HDD | Hard Disk Drive | Hardware |
+| HDMI | High-Definition Multimedia Interface | Display |
 | HFS | Hierarchical File System | FileSystem |
 | HIDS | Host-Based Intrusion Detection System | Security |
 | HIP | Host Identity Protocol | Networking |
@@ -372,6 +373,7 @@
 | UX | User Experience | Software |
 | vCIO | Virtual Chief Information Officer | Business |
 | vCISO | Virtual Chief Information Security Officer | Business |
+| VGA | Video Graphics Array | Display |
 | VLAN | Virtual Local Area Network | Networking |
 | VLF | Very Low Frequency | Networking |
 | VM | Virtual Machine | Virtualization |
@@ -387,6 +389,7 @@
 | WUXGA | Wide Ultra XGA | Display |
 | XAML | Extensible Application Markup Language | Software |
 | XDR | Extended Detection and Response | Security |
+| XGA | Extended Graphics Array | Display |
 | XML | Extensible Markup Language | Data Format |
 | XMPP | Extensible Messaging and Presence Protocol | Networking |
 | XSLT | Extensible Stylesheet Language Transformations | Web |
