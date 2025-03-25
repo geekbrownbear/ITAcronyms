@@ -282,6 +282,7 @@
 | PEBCAK | Problem Exists Between Chair And Keyboard | Humor |
 | PDF | Portable Document Format | Data Format |
 | PDU | Protocol Data Unit | Networking |
+| PGP | Pretty Good Privacy | Security |
 | PHP | PHP: Hypertext Preprocessor | Programming |
 | PICNIC | Problem In Chair, Not In Computer | Humor |
 | PKI | Public Key Infrastructure | Security |
