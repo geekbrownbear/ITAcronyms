@@ -2,7 +2,9 @@
 
 ## Description
 
-This document provides a comprehensive list of acronyms and abbreviations commonly used in the IT industry. Although concieved primarily for MSP specific items, I made it much longer and no it serves as a quick reference guide for anyone looking to understand the meaning of these acronyms.
+This document provides a comprehensive list of acronyms and abbreviations commonly used in the IT industry. Although concieved primarily for MSP specific items, I made it much longer and now it serves as a quick reference guide for anyone looking to understand the meaning of these acronyms.
+
+Full list: [IT Acronyms Table](./it_acronyms.md)
 
 ## Table Structure
 
