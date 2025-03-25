@@ -1,5 +1,6 @@
 | Acronym | Meaning | Category |
 | --- | --- | --- |
+| 2FA | Two Factor Authentication | Security |
 | AAA | Authentication, Authorization, and Accounting | Security |
 | ABAC | Attribute-Based Access Control | Security |
 | ACL | Access Control List | Security |
@@ -243,6 +244,7 @@
 | MDR | Managed Detection and Response | Security |
 | MIB | Management Information Base | Networking |
 | MIMO | Multiple-Input Multiple-Output | Networking |
+| MFA | Multi Factor Authentication | Security |
 | ML | Machine Learning | AI |
 | MP3 | MPEG Audio Layer-3 | Audio Format |
 | MP4 | MPEG-4 Part 14 | Video Format |
