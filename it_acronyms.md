@@ -303,6 +303,7 @@
 | RADIUS | Remote Authentication Dial-In User Service | Security |
 | RAID | Redundant Array of Independent Disks | Hardware |
 | RAM | Random Access Memory | Hardware |
+| RBAC | Roll Based Access Control | Security |
 | RDMA | Remote Direct Memory Access | Networking |
 | REST | Representational State Transfer | Software |
 | RFID | Radio-Frequency Identification | General |
