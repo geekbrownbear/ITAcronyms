@@ -29,3 +29,5 @@ The table is organized into three columns:
 | APIPA | Automatic Private IP Addressing | Networking |
 | ARP | Address Resolution Protocol | Networking |
 | ASIC | Application-Specific Integrated Circuit | Hardware |
+
+Full list: [IT Acronyms Table](./it_acronyms.md)
