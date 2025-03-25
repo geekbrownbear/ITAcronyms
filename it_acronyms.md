@@ -119,7 +119,7 @@
 | DTL | Datagram Transport Layer Security | Security |
 | DVB | Digital Video Broadcasting | Video |
 | DVD | Digital Versatile Disc | Storage Media |
-| DVI | Digital Visual Interface | Hardware |
+| DVI | Digital Visual Interface | Video |
 | EA | Enterprise Architecture | Business |
 | EBCDIC | Extended Binary Coded Decimal Interchange Code | Character Encoding |
 | EBGP | Exterior Border Gateway Protocol | Networking |
@@ -179,7 +179,7 @@
 | HBA | Host Bus Adapter | Hardware |
 | HCI | Human Computer Interaction | General |
 | HDD | Hard Disk Drive | Hardware |
-| HDMI | High-Definition Multimedia Interface | Display |
+| HDMI | High-Definition Multimedia Interface | Video |
 | HFS | Hierarchical File System | FileSystem |
 | HIDS | Host-Based Intrusion Detection System | Security |
 | HIP | Host Identity Protocol | Networking |
@@ -310,6 +310,7 @@
 | RDMA | Remote Direct Memory Access | Networking |
 | REST | Representational State Transfer | Software |
 | RFID | Radio-Frequency Identification | General |
+| RGB | Red, Green, Blue | Video |
 | RISC | Reduced Instruction Set Computing | Hardware |
 | RMM | Remote Monitoring and Management | Business |
 | ROM | Read-Only Memory | Hardware |
@@ -327,6 +328,7 @@
 | SAML | Security Assertion Markup Language | Security |
 | SAN | Storage Area Network | Storage |
 | SAT | Security Awareness Training | Security |
+| SCART | EuroSCART (Syndicat des Constructeurs d'Appareils Radiorécepteurs et Téléviseurs) Péritel | Video |
 | SCSI | Small Computer System Interface | Storage |
 | SD-WAN | Software-Defined Wide Area Network | Networking |
 | SDK | Software Development Kit | Software |
@@ -373,7 +375,7 @@
 | UX | User Experience | Software |
 | vCIO | Virtual Chief Information Officer | Business |
 | vCISO | Virtual Chief Information Security Officer | Business |
-| VGA | Video Graphics Array | Display |
+| VGA | Video Graphics Array | Video |
 | VLAN | Virtual Local Area Network | Networking |
 | VLF | Very Low Frequency | Networking |
 | VM | Virtual Machine | Virtualization |
@@ -386,10 +388,10 @@
 | WPA | Wi-Fi Protected Access | Networking |
 | WRR | Weighted Round Robin | Networking |
 | WSGI | Web Server Gateway Interface | Web |
-| WUXGA | Wide Ultra XGA | Display |
+| WUXGA | Wide Ultra XGA | Video |
 | XAML | Extensible Application Markup Language | Software |
 | XDR | Extended Detection and Response | Security |
-| XGA | Extended Graphics Array | Display |
+| XGA | Extended Graphics Array | Video |
 | XML | Extensible Markup Language | Data Format |
 | XMPP | Extensible Messaging and Presence Protocol | Networking |
 | XSLT | Extensible Stylesheet Language Transformations | Web |
