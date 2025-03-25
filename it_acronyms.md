@@ -1,4 +1,5 @@
 | Acronym | Meaning | Category |
+| --- | --- | --- |
 | AGI | Artificial General Intelligence | AI |
 | ANN | Artificial Neural Network | AI |
 | DL | Deep Learning | AI |
