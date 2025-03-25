@@ -166,9 +166,10 @@
 | GGP | Gateway-to-Gateway Protocol | Networking |
 | GHCI | Graphical Haskell Compiler Interface | Programming |
 | GIF | Graphics Interchange Format | Image Format |
-| GLONASS | GLONASS | Networking |
+| GLONASS | GLObalnaya NAvigatsionnaya Sputnikovaya Sistema | Networking |
 | GMPLS | Generalized Multi-Protocol Label Switching | Networking |
-| GNU | GNU | General |
+| GNU | GNU's Not Unix | General |
+| GPS | Global Positioning System | Networking |
 | GPT | GUID Partition Table | Storage |
 | GPU | Graphics Processing Unit | Hardware |
 | GRUB | Grand Unified Bootloader | OS |
