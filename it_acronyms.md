@@ -38,7 +38,6 @@
 | BGP | Border Gateway Protocol | Networking |
 | BIOS | Basic Input/Output System | Hardware |
 | BIP | Bitcoin Improvement Proposal | Crypto |
-| BitTorrent | BitTorrent | Networking |
 | BLE | Bluetooth Low Energy | Networking |
 | BPDU | Bridge Protocol Data Unit | Networking |
 | BPL | Broadband over Power Lines | Networking |
