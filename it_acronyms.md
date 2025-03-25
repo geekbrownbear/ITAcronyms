@@ -43,6 +43,7 @@
 | BPL | Broadband over Power Lines | Networking |
 | BPM | Business Process Management | Business |
 | BRR | Bottleneck Bandwidth and RTT | Networking |
+| BSOD | Bluse Screen of Death | General |
 | BYOD | Bring Your Own Device | General |
 | C | C (programming language) | Programming |
 | CA | Certificate Authority | Security |
@@ -275,9 +276,11 @@
 | PAM | Pluggable Authentication Modules | OS |
 | PCI | Peripheral Component Interconnect | Hardware |
 | PCMCIA | Personal Computer Memory Card International Association | Hardware |
+| PEBCAK | Problem Exists Between Chair And Keyboard | Humor |
 | PDF | Portable Document Format | Data Format |
 | PDU | Protocol Data Unit | Networking |
 | PHP | PHP: Hypertext Preprocessor | Programming |
+| PICNIC | Problem In Chair, Not In Computer | Humor |
 | PKI | Public Key Infrastructure | Security |
 | PLC | Programmable Logic Controller | Hardware |
 | PM | Patch Management | Security |
@@ -310,6 +313,7 @@
 | RPM | RPM Package Manager | OS |
 | RPO | Recovery Point Objective | General |
 | RSS | Really Simple Syndication | Web |
+| RTFM | Read the Fucking Manual | General |
 | RTO | Recovery Time Objective | General |
 | RTOS | Real-Time Operating System | OS |
 | RTP | Real-time Transport Protocol | Networking |
@@ -383,5 +387,6 @@
 | XML | Extensible Markup Language | Data Format |
 | XMPP | Extensible Messaging and Presence Protocol | Networking |
 | XSLT | Extensible Stylesheet Language Transformations | Web |
+| YAML | YAML Ain't Markup Language | Programming |
 | YARN | Yet Another Resource Negotiator | Big Data |
 | ZTNA | Zero Trust Network Access | Security |
