@@ -148,6 +148,8 @@
 | ES | Elasticsearch | Software |
 | ESB | Enterprise Service Bus | Software |
 | ESN | Electronic Serial Number | Telecommunications |
+| ETF | Early Termination Fee | General |
+| ETL | Early Termination Liability | General |
 | EUI | Extended Unique Identifier | Hardware |
 | FAT | File Allocation Table | FileSystem |
 | FCAPS | Fault, Configuration, Accounting, Performance, and Security | Networking |
@@ -346,6 +348,7 @@
 | SIP | Session Initiation Protocol | Networking |
 | SLA | Service Level Agreement | General |
 | SLIP | Serial Line Internet Protocol | Networking |
+| SLO | Service Level Objective | General |
 | SMTP | Simple Mail Transfer Protocol | Networking |
 | SNMP | Simple Network Management Protocol | Networking |
 | SOC | Security Operations Center | Security |
